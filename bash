@@ -1,3 +1,3 @@
-git add .
-git commit -m "fix: force Render to use Python with render.yaml"
+git add requirements.txt
+git commit -m "fix: add uvicorn to requirements"
 git push origin main
