@@ -1,3 +1,3 @@
 git add requirements.txt
-git commit -m "fix: ensure uvicorn is in requirements"
+git commit -m "fix: use uvicorn[standard] so CLI is available"
 git push origin main
